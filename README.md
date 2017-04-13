@@ -11,5 +11,3 @@
 * dois pontos
 * Olá
 ### Irineu
-# teste commit
-# testando push
